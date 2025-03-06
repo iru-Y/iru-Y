@@ -9,7 +9,7 @@ Hello world!
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://bashlogo.com/img/logo/png/full_colored_dark.png" height="40" alt="react logo"  />
+  <img src="https://bashlogo.com/img/logo/svg/full_colored_light.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
