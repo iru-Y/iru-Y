@@ -1,8 +1,4 @@
-Hello world!
-
 <p align="left">Hello World!!</p>
-
-###
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="40" alt="storybook logo"  />
