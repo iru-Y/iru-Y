@@ -27,7 +27,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media.tenor.com/EDa-2dguBeEAAAAi/one-piece-zoro.gif"  />
 </div>
 
