@@ -9,7 +9,7 @@ Hello world!
   <img width="12" />
   <img src="https://bashlogo.com/img/logo/svg/full_colored_light.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://t.ctcdn.com.br/0GGS4dJikkJ_7UrDi3qYVnYqLS4=/0x220:900x727/768x432/smart/i544346.jpeg" height="40" alt="jest logo"  />
+  <img src="https://img.icons8.com/?size=100&id=G0CnLqqcRBXl&format=png&color=FFFFFF" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
