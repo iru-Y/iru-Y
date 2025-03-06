@@ -5,13 +5,15 @@ Hello world!
 ###
 
 <div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp&w=256" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://bashlogo.com/img/logo/svg/full_colored_light.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=G0CnLqqcRBXl&format=png&color=FFFFFF" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+ 
 </div>
 
 ###
