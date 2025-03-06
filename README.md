@@ -1,7 +1,7 @@
 <p align="left">Hello World!!</p>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="40" alt="storybook logo"  />
+  <img src="https://img.icons8.com/?size=512&id=44442&format=png" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp&w=256" height="40" alt="javascript logo"  />
   <img width="12" />
