@@ -5,7 +5,7 @@ Hello world!
 ###
 
 <div align="left">
-  <img src="https://pt.wikipedia.org/wiki/Go_%28linguagem_de_programa%C3%A7%C3%A3o%29#/media/Ficheiro:Go_Logo_Blue.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp&w=256" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" height="40" alt="typescript logo"  />
   <img width="12" />
