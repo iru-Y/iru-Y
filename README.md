@@ -13,6 +13,7 @@ Eu sou Yuri Matthewus
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=G0CnLqqcRBXl&format=png&color=FFFFFF" height="40" alt="jest logo"  />
   <img width="12" />
+   <img src="https://logospng.org/wp-content/uploads/linux.png" height="40" alt="jest logo"  />
  
 </div>
 
