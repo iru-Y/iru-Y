@@ -1,7 +1,8 @@
-Hello World!
-#
 Eu sou Yuri Matthewus
 #
+Comecei minha trilha na tecnologia aos 14 anos com manutenção de celulares e micros. Aos 25 descobri a programação que já era uma área que eu visava a muito tempo entrar. 
+Fiz alguns projetos utilizando Java, Go e Flutter. Também já fiz projetos freelancer como Zoe express, DraftMaster e Agnus dei e agora estou em busca de uma oportunidade de emprego formal. Trabalho muito bem em equipe e consigo entender as necessidades dos clientes e transformar isso em código, sou bem maleável para aprender novas tecnologias se for preciso. 
+
 ##### **`Desenvolvedor back-end e mobile`**
 
 <div align="left">
