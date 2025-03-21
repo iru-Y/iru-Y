@@ -21,19 +21,6 @@ Fiz alguns projetos utilizando Java, Go e Flutter. Também já fiz projetos free
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-   <img width="12" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-   <img width="12" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-   <img width="12" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-   <img width="12" />
-</div>
-
-###
-
-<div align="left">
   <img height="200" src="https://media.tenor.com/EDa-2dguBeEAAAAi/one-piece-zoro.gif"  />
 </div>
 
