@@ -1,6 +1,5 @@
 Oie! Eu sou Yuri Matthewus.
-#
-[![Portfólio]([https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white](https://yuri-matthewus.onrender.com/))]
+#[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://perseualves.github.io/meu-portfolio/](https://yuri-matthewus.onrender.com/))
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-matthewus-147584224/)
 #
 Comecei minha trilha na tecnologia aos 14 anos com manutenção de celulares e micros. Aos 25 descobri a programação que já era uma área que eu visava a muito tempo entrar. 
