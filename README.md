@@ -33,4 +33,4 @@ Fiz alguns projetos utilizando Java, Go e Flutter. Também já fiz projetos free
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iru-Y&show_icons=true&theme=radical)](https://github.com/iru-Y/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iru-Y&show_icons=true&theme=radical)](https://github.com/iru-Y/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iru-Y&langs_count=10&hide_border=true&border_radius=50&layout=compact&theme=tokyonight)](https://github.com/iru-Y/github-readme-stats)
