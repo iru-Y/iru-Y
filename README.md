@@ -3,8 +3,19 @@
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://perseualves.github.io/meu-portfolio/](https://yuri-matthewus.onrender.com/))
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-matthewus-147584224/)
 #
-Comecei minha trilha na tecnologia aos 14 anos com manutenção de celulares e micros. Aos 25 descobri a programação que já era uma área que eu visava a muito tempo entrar. 
-Fiz alguns projetos utilizando Java, Go e Flutter. Também já fiz projetos freelancer como Zoe express, DraftMaster e Agnus dei e agora estou em busca de uma oportunidade de emprego formal. Trabalho muito bem em equipe e consigo entender as necessidades dos clientes e transformar isso em código, sou bem maleável para aprender novas tecnologias se for preciso. 
+Tenho 3 anos de experiência com Java, apps mobile com Flutter e frontend com Angular 15+.
+
+Hard Skills:
+
+⦿ Frontend: TypeScript, Javascript, CSS, SCSS, HTML, Angular 15+, componentes, serviços, formulários reativos, RxJS, MVC, MVVM, standalone components.
+
+⦿ Backend: Java, Spring Boot, RabbitMq, Email sender, Docker, CI/CD AWS, OAuth2, JWT, Swagger, MongoDB, PostgresSql, SOLID, DDD, TDD.
+
+⦿ Mobile: Flutter, Clean Architecture, MVVM, Bloc Pattern Cubit, .arb files, injeção de dependências, publicação na Google Play.
+
+⦿ Metodologia Scrum, Kanban, Git, GitHub, Linux.
+
+⦿ Freelancer: Desenvolvimento de apps, sistemas completos e automações.
 
 ##### **`Desenvolvedor back-end e mobile`**
 
